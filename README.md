@@ -5,15 +5,15 @@
 <a href="https://www.facebook.com/JustineKizhakkinedath"><img src="http://i.imgur.com/P3YfQoD.png" alt="Facebook" align="right"></a>
 <br>
 - - -
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # Gitsocial
-Want to add some flare to your README? How about getting mad followers on Twitter?
+Want to add some flare to your README? How about getting mad followers on Twitter?  
 
 [![alt text][1.1]][1]
 
 [1.1]: https://i.imgur.com/G9YJUZI.png (instagram icon)
 
-[1]: http://www.twitter.com/carlsednaoui
-
+[1]: https://www.instagram.com/justinekizhakkinedath
 ### The code
 
 ```
@@ -21,11 +21,11 @@ Want to add some flare to your README? How about getting mad followers on Twitte
 
 [1.1]: https://i.imgur.com/nn1V2fR.png (instagram icon)
 
-[1]: http://www.twitter.com/carlsednaoui
+[1]: https://www.instagram.com/justinekizhakkinedath
 ```
 
 ### Credit
 Forked from [Carl Sednaoui](https://github.com/carlsednaoui/gitsocial)
 
 ### License
-MIT License
+[MIT License](https://opensource.org/licenses/MIT)
