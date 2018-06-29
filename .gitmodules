@@ -1,0 +1,3 @@
+[submodule "carlsednaoui_gitsocial"]
+	path = carlsednaoui_gitsocial
+	url = https://github.com/carlsednaoui/gitsocial.git
